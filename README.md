@@ -1,46 +1,67 @@
-## 👋 About Me
+<div align="center">
 
-I'm Umair Farooq, a technology enthusiast focused on **Cloud Engineering,
-Data Engineering, and DevOps**. I enjoy designing cloud infrastructure,
-building data pipelines, automating deployments, and exploring technologies
-that make applications scalable, reliable, and secure.
+# Umair Farooq
 
-My hands-on projects involve AWS cloud services, distributed data processing,
-infrastructure automation, containerization, and CI/CD workflows. I believe
-in learning by building, experimenting with real-world use cases, and
-documenting my implementations to share knowledge with the developer community.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%98%81%EF%B8%8F;Data+Engineer+%F0%9F%93%8A;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;Building+things+that+scale." alt="Typing SVG" />
+</a>
 
-### ☁️ Cloud Engineering
-- Designing highly available and scalable AWS infrastructure using VPC,
-  EC2, Application Load Balancer, and Auto Scaling.
-- Automating infrastructure provisioning using AWS CloudFormation and YAML.
-- Implementing cloud security, IAM access controls, encryption, and monitoring
-  with AWS KMS, CloudTrail, CloudWatch, and AWS Config.
+<br/>
 
-### 📊 Data Engineering
-- Building ETL pipelines and data lakes using AWS Glue, Amazon S3, and Athena.
-- Processing and analyzing large datasets with Amazon EMR, Hadoop, and Hive.
-- Exploring real-time data ingestion using Amazon Kinesis and AWS Glue streaming.
-- Working with Apache Hudi, Parquet, schema evolution, and incremental data
-  processing.
-- Writing Python and SQL for data transformation, querying, and analytics.
+[LinkedIn](https://linkedin.com/in/umair-farooq-6ab9b2201) •
+[GitHub](https://github.com/umair9211) •
+[Email](mailto:umairwork9211@gmail.com)
 
-### ⚙️ DevOps & Automation
-- Containerizing distributed applications using Docker and Docker Compose.
-- Deploying applications on Kubernetes using Deployments, Services,
-  ConfigMaps, and PersistentVolumeClaims.
-- Building CI/CD workflows with GitHub Actions to automate application builds
-  and deployments.
-- Managing cloud infrastructure using Infrastructure as Code and AWS
-  CloudFormation.
-- Working with Linux, Bash, Git, and GitHub to support development and
-  deployment workflows.
+</div>
 
-### 🎯 What I'm Working Towards
-My goal is to develop practical expertise in cloud infrastructure,
-data engineering, and DevOps by building projects that demonstrate
-automation, scalability, security, and efficient data processing.
+---
 
-I'm always interested in exploring new technologies, solving technical
-problems, and connecting with people who share an interest in cloud computing,
-data platforms, and modern infrastructure.
+### `$ whoami`
+
+Cloud, data, and DevOps enthusiast who enjoys building things with AWS,
+automating deployments, and figuring out how systems work.
+
+Currently working with cloud infrastructure, data pipelines, containers,
+and CI/CD.
+
+### `$ tech-stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,bash,git,github,githubactions&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Hudi-430098?style=flat-square&logo=apache&logoColor=white" />
+</p>
+
+### `$ ls projects/`
+
+| Project | What it does |
+|---|---|
+| [AWS ETL Data Lake](https://github.com/umair9211/aws-etl-data-lake-analytics) | ETL, Parquet & Athena analytics |
+| [Real-Time Streaming](https://github.com/umair9211/aws-realtime-streaming-pipeline) | Kinesis, Glue & Apache Hudi |
+| [EMR & Hive Analytics](https://github.com/umair9211/aws-emr-hive-log-analytics) | Distributed log processing |
+| Distributed Voting App | Docker, Kubernetes & microservices |
+| CI/CD Pipeline | GitHub Actions & automated deployment |
+
+### `$ git stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umair9211&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair9211&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umair9211&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+*"Build. Break. Learn. Automate. Repeat."*
+
+</div>
