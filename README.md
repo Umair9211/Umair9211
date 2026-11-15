@@ -3,7 +3,7 @@
 # Umair Farooq
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%98%81%EF%B8%8F;Data+Engineer+%F0%9F%93%8A;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;Building+things+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%98%81%EF%B8%8F;AI+Engineer+%F0%9F%93%8A;DevOps+%26+Automation+%E2%9A%99%EF%B8%8F;Building+things+that+scale." alt="Typing SVG" />
 </a>
 
 <br/>
