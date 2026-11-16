@@ -36,16 +36,15 @@ and CI/CD.
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Hudi-430098?style=flat-square&logo=apache&logoColor=white" />
 </p>
-
 ### `$ ls projects/`
 
 | Project | What it does |
 |---|---|
-| [AWS ETL Data Lake](https://github.com/umair9211/aws-etl-data-lake-analytics) | ETL, Parquet & Athena analytics |
-| [Real-Time Streaming](https://github.com/umair9211/aws-realtime-streaming-pipeline) | Kinesis, Glue & Apache Hudi |
-| [EMR & Hive Analytics](https://github.com/umair9211/aws-emr-hive-log-analytics) | Distributed log processing |
-| Distributed Voting App | Docker, Kubernetes & microservices |
-| CI/CD Pipeline | GitHub Actions & automated deployment |
+| [Research Agent](https://github.com/Umair9211/research-agent) | Multi-agent research system built with LangGraph |
+| [Email Agent](https://github.com/Umair9211/email-agent) | AI-powered Gmail agent with human-in-the-loop approval |
+| [AWS Infrastructure Terraform](https://github.com/Umair9211/aws-infrastructure-terraform) | AWS infrastructure provisioning using Terraform |
+| [Cloud Monitoring Dashboard](https://github.com/Umair9211/cloud-monitoring-dashboard) | Real-time AWS infrastructure monitoring dashboard |
+| [ModelHug](https://github.com/Umair9211/ModelHug) | Model discovery and exploration platform |
 
 ### `$ git stats`
 
